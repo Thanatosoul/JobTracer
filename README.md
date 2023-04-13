@@ -5,9 +5,9 @@ JobTracer is a job information tracking and management tool.
 Job Tracer is a Python 3.11-based job information tracking and management tool that allows user to perform custom searches for job postings on the [SEEK website](https://www.seek.com.au/), and track and manage job status changes. 
 
 ## Python Libraries Used
-SQLite3: Used for local data storage and management.
-Requests: Used for website data scraping.
-Other Python libraries that may be used.
+- SQLite3: Used for local data storage and management.
+- Requests: Used for website data scraping.
+- Other Python libraries that may be added.
 
 ## License
 Job Tracer is licensed under the GPLv3, which allows anyone to freely use, modify, and distribute the project's source code and derivative works.
